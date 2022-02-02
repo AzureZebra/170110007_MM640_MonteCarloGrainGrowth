@@ -1,0 +1,14 @@
+high T -> P=exp(dE*0.1)
+low T -> P=exp(dE*10)
+
+test 2
+->L=(50*50),high T,5 grains
+
+test 4
+->L=(10*10),high T,5 grains
+
+test 5(high T)5grain,100*100
+test 6(low T)5grain,100*100
+
+test 8
+->L=(150*150),low T,10 grains
